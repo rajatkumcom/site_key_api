@@ -1,3 +1,5 @@
+Total time: 1hr 15 mints.
+
 1. https://api.drupal.org/api/drupal/core%21lib%21Drupal%21Core%21Form%21form.api.php/function/hook_form_FORM_ID_alter/8.2.x?no_cache=1558518317
 2. https://api.drupal.org/api/drupal/developer%21topics%21forms_api_reference.html/7.x
 3. https://www.drupal.org/docs/8/creating-custom-modules/defining-and-using-your-own-configuration-in-drupal-8
