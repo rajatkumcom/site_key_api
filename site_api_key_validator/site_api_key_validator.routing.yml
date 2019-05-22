@@ -1,0 +1,8 @@
+site_api_key_validator.get_node:
+ path: 'api/get-node/{nid}/{key}'
+ defaults:
+   _controller: '\Drupal\site_api_key_validator\Controller\SiteApiKeyRestController::getNode'
+   _format: json
+ methods: [GET]
+ requirements:
+  _custom_access: '\Drupal\site_api_key_validator\Controller\SiteApiKeyRestController::access'
